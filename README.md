@@ -1,4 +1,4 @@
-# enigjewo
+# enigjewo, not mine
 
 > An open-source _remake_ of [**GeoGuessr**](https://www.geoguessr.com).
 
